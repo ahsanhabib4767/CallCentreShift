@@ -1,0 +1,130 @@
+﻿@using OBL.BIC.Models;
+@model IEnumerable<AccBengalInsuranceTransactionLog>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@{
+    ViewData["Title"] = "Transaction List";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Google Font: Source Sans Pro -->
+    @*<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"> =>*@
+    <link rel="stylesheet" href="~/all/css/fonts.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/DataTables/css/all.min.css">@*plugins/fontawesome-free/css/all.min.css*@
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/DataTables/css/dataTables.bootstrap4.min.css">@*plugins/datatables-bs4/css/dataTables.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/responsive.bootstrap4.min.css">@*plugins/datatables-responsive/css/responsive.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/buttons.bootstrap4.min.css">@*/plugins/datatables-buttons/css/buttons.bootstrap4.min.css*@
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/css/adminlte.min.css">
+
+</head>
+<body>
+    <div class="p-4 rounded border">
+        <div class="row">
+           
+
+            <div class="col-12 card">
+              
+                <div class="card-content">
+                    <div class="m-5">
+                        <div class="p-4 rounded border">
+
+
+
+                            <table data-order='[[ 0, "asc" ]]' id="TransactionInfo" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Transaction Date</th>
+                                        <th>Transaction No</th>
+                                        <th>Customer Name</th>
+                                        <th>Payment Amount</th>
+                                        <th>BankCode</th>
+                                        <th>Branch Code</th>
+                                        <th>Details</th>
+                                      
+                                    </tr>
+                                </thead>
+
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td>@item.TranDate.ToString("dd-MM-yyyy")</td>
+                                            <td>@item.TranNo</td>
+                                            <td>@item.CustomerName</td>
+                                            <td>@item.TotalPaymentAmount</td>
+                                            <td>@item.BankCode</td>
+                                            <td>@item.BranchCode</td>
+                                            @if (item.IsPosted == false && item.IsDelete == false)
+                                            {
+                                                <td>
+                                                    <partial name="_ButtonPartial" model="@item.Id" />
+                                            </td>
+                                            }else{
+                                                <td><h2>None</h2></td>
+                                            }
+                                            
+                                        </tr>
+                                    }
+
+
+
+                                </tbody>
+                            @*    <tfoot>
+                                    <tr>
+                                        <th>Transaction No</th>
+                                        <th>Customer Name</th>
+                                        <th>Total Payment Amount</th>
+                                        <th>BankCode</th>
+                                        <th>Branch Code</th>
+                                        <th>Details</th>
+                                    </tr>
+                                </tfoot>*@
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <!-- AdminLTE App -->
+    <script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>
+
+
+    @section scripts{
+        <script src="~/lib/Alertify/alertify.min.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                var save = '@TempData["alert"]'
+                if (save) {
+                    alertify.set('notifier', 'position', 'top-right');
+                    alertify.success(save);
+                   
+                }
+                else{
+                    save = "";
+                    alertify.danger(save);
+                }
+
+
+            })
+        </script>
+    }
+
+</body>
+</html>
+<!--  Developed By Ahsan -->

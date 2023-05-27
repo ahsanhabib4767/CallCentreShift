@@ -1,0 +1,180 @@
+﻿@{
+    ViewData["Title"] = "BIC Collection";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Google Font: Source Sans Pro -->
+    @*<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"> =>*@
+    <link rel="stylesheet" href="~/all/css/fonts.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/DataTables/css/all.min.css">@*plugins/fontawesome-free/css/all.min.css*@
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/DataTables/css/dataTables.bootstrap4.min.css">@*plugins/datatables-bs4/css/dataTables.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/responsive.bootstrap4.min.css">@*plugins/datatables-responsive/css/responsive.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/buttons.bootstrap4.min.css">@*/plugins/datatables-buttons/css/buttons.bootstrap4.min.css*@
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/css/adminlte.min.css">
+    <script>
+        window.onload = toggleTextbox;
+        function toggleTextbox() {
+            const dropdown = document.getElementById("paymentmethod");
+            const textbox = document.getElementById("checkNo");
+
+            if (dropdown.value === "2") {
+                //textbox.style.display = "block";
+                textbox.readOnly = false;
+                textbox.required = true;
+            } else {
+                //textbox.style.display = "none";
+                textbox.readOnly = true;
+                textbox.required = false;
+            }
+        }
+
+    </script>
+</head>
+<body style="overflow-y: hidden;">
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h5>BIC Collection</h5>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <div class="p-4 rounded border">
+        <div class="col-md-8" style="float:none;margin:auto;">
+            <!-- general form elements -->
+            <div class="card card-primary">
+
+                <form asp-controller="Transaction" asp-action="AddTransactionInfo" method="post">
+                    <div class="card-body">
+
+                        <div class="form-group row">
+
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Customer Type</label>
+                            <div class="col-sm-6">
+                                @Html.DropDownList("paytype",(IEnumerable<SelectListItem>)ViewBag.paytype,"Select Customer Type",new { @class = "form-control"})
+                            </div>
+                        </div>
+                        <div class="form-group row">
+
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Payment Type</label>
+                            <div class="col-sm-6">
+                                @Html.DropDownList("paymentmethod",(IEnumerable<SelectListItem>)ViewBag.paymentmethod,"Select Payment Type",new { @class = "form-control" ,@onchange="toggleTextbox()"})
+                              
+                            </div>
+                        </div>
+                        <div class="form-group row">
+
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Cheque No</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" name="checkNo" id="checkNo">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Customer ID</label>
+                            <div class="col-sm-6">
+                                <input type="text" class="form-control" name="idno" id="load" required="required">
+                            </div>
+                            <div class="col">
+                                <input type="button" id="SearchData" value="Click For Details" class="btn btn-info" />
+
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Customer ID</label>
+                            <div class="col-sm-6">
+                                @Html.TextBox("custId", null, new { @class = "form-control", @readonly = "readonly", @required = "required"})
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Customer Name</label>
+                            <div class="col-sm-6">
+                                @Html.TextBox("custName", null, new { @class = "form-control", @readonly = "readonly", @required = "required" })
+                                @Html.TextBox("sessionId", null, new { @class = "form-control", @readonly = "readonly", style = "display:none" })
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="inputPassword" class="col-sm-2 col-form-label">Amount</label>
+                            <div class="col-sm-6">
+                                @Html.TextBox("amount", null, new { @class = "form-control",@style = "float: right;text-align: right;",@Value = "0", @required = "required", @readonly = "readonly" })
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.card-body -->
+
+                    <div class="card-footer">
+                        <input type="submit" asp-controller="Transaction" asp-action="AddTransactionInfo" class="btn btn-success" name="savebtn" value="Save">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <!-- /.card -->
+</body>
+</html>
+<script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<!-- AdminLTE App -->
+<script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>
+@section scripts{
+    <script src="~/lib/Alertify/alertify.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var save = '@TempData["alert"]'
+            if (save) {
+                alertify.set('notifier', 'position', 'top-right');
+                alertify.success(save);
+
+            }
+            else {
+                save = "";
+                alertify.danger(save);
+            }
+
+
+        })
+    </script>
+}
+    <script type="text/javascript">
+        $("#SearchData").prop('disabled', false);
+        var dropdown = document.getElementById("paytype");
+
+
+        var selectedText = dropdown.options[dropdown.selectedIndex].text;
+
+        $("#SearchData").click(function () {
+
+            if (dropdown.selectedIndex === 0) {
+                alert("Please select a payment type.");
+            } else {
+                const x = $("#load").val();
+                if (x != "") {
+                    $.ajax({
+                        url: "@Url.Action("GetInfo", "Transaction")",
+                        data: { idno: $("#load").val(), paytype: dropdown.selectedIndex},
+                        type: "GET",
+                        dataType: "json",
+                        success: function (data) {
+                            $("#custId").val(data.custId);
+                            $("#custName").val(data.custName);
+                            $("#amount").val(data.amount);
+                            $("#sessionId").val(data.sessionId);
+
+                        },
+                        error: function () {
+                            
+                            alert("ID Not found! Insert Valid User ID.");
+                            window.location.reload();
+                        }
+                    });
+                } else {
+                    alert("ID is Null/Empty");
+                }
+            }//end of else
+        })
+
+    </script>

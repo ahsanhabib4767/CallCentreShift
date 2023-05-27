@@ -1,0 +1,1 @@
+<form asp-controller="Transaction" asp-action="AddTransactionInfo" method="post">

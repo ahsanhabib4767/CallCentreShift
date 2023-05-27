@@ -1,0 +1,183 @@
+﻿@{
+    ViewData["Title"] = "Add User";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="~/lib/select/css/select2.min.css" rel="stylesheet" />
+    <link href="~/all/css/select2-bootstrap4.css" rel="stylesheet" type="text/css" />
+    <script src="~/lib/select/js/select2.full.min.js"></script>
+    <script src="~/lib/select/js/select2.js"></script>
+</head>
+<body>
+    <div class="p-4 rounded border">
+        <div class="row">
+            <div class="col-12 card">
+                <div class="card-content">
+                    <div class="m-5">
+                        <div class="p-4 rounded border">
+                            <form action="/User/AddUser" method="post">
+                              
+                                <div class="row mt-5">
+                                    <div class="col-2">
+                                        <label>Employee ID: </label>
+                                    </div>
+                                    <div class="col-4">
+                                       
+                                            <input type="text" class="form-control" placeholder="Employee Id" name="empIdTxtBx">
+                                       
+                                    </div>
+                                    <div class="col-2">
+                                        <label>Branch: </label>
+                                    </div>
+                                    <div class="col-4">
+
+                                            <input type="text" class="form-control" placeholder="Employee Branch" name="empBrTxtBx">
+                                        
+                                      
+                                    </div>
+                                </div>
+                                <div class="row mt-2">
+                                    <div class="col-2">
+                                        <label>Name: </label>
+                                    </div>
+                                    <div class="col-4">
+                                       
+                                            <input type="text" class="form-control" placeholder="Employee Name" name="empName">
+                                        
+                                    </div>
+                                    <div class="col-2">
+                                        <label>Department: </label>
+                                    </div>
+                                    <div class="col-4">
+                                        
+                                            <input type="text" class="form-control" placeholder="Employee Department" name="empDeptTxtBx">
+                                        
+                                      
+                                    </div>
+                                </div>
+
+                                <div class="row mt-2">
+
+                                    <div class="col-2">
+                                        <label>Designation: </label>
+                                    </div>
+
+                                    <div class="col-4">
+                                      
+                                            <input type="text" class="form-control" placeholder="Employee Designation" name="empDesgTxtBx">
+                                       
+                                    </div>
+                                   
+                                </div>
+
+
+                                <div class="row mt-2">
+
+                                    <div class="col-2">
+                                        <label>Status: </label>
+                                    </div>
+                                    <div class="col-4">
+                                       
+                                        <select class="form-control" name="statusDDn" required>
+                                            <option value="">Select Status</option>
+                                            
+                                                    <option value="Administrator">Administrator</option>
+                                                    <option value="Standard">Standard</option>
+                                               
+                                        </select>
+                                    </div>
+                                    <div class="col-2">
+                                    </div>
+                                    <div class="col-4 text-right">
+
+
+                                        <input type="submit" class="btn btn-outline-primary" value="Apply" />
+                                        @*<a asp-action="Newp" asp-controller="User" class="btn btn-primary" style="color: white"><i class="fa-solid fa-plus"></i> &nbsp; add user</a>*@
+
+                                    </div>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <partial name="DataLoad.cshtml" />
+
+
+
+
+
+
+    <script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <!-- AdminLTE App -->
+
+    <script src="~/lib/select/js/select2.full.min.js"></script>
+    <script src="~/lib/select/js/select2.js"></script>
+    <script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>
+
+    <script type="text/javascript">
+        $("#referToDDn").select2({
+            placeholder: "Select Refer To Address",
+            theme: "bootstrap4",
+            allowClear: true,
+            ajax: {
+                url: "/User/Search",
+
+                contentType: "application/json; charset=utf-8",
+                data: function (params) {
+                    var query =
+                    {
+                        term: params.term,
+                    };
+                    return query;
+
+                },
+
+                processResults: function (result) {
+                    return {
+                        results: $.map(result, function (item) {
+                            //console.log(item);
+                            //var formattedValue = item.name + item.
+                            //let result = item.name.concat(" | ", item.oblemail);
+                            //result = result.concat(" | ", item.department);
+                            //console.log(item);
+                            return {
+                                id: item.oblemail,
+
+                                text: item.oblemail
+                            };
+                        }),
+                    };
+                }
+            }
+        });
+    </script>
+    <script src="~/all/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/js/Datatables.responsive.min.js"></script>
+
+
+</body>
+</html>
+
+@section scripts{
+    <script src="~/lib/Alertify/alertify.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var save = '@TempData["alert"]'
+            if (save === "User Information Updated" || save === "User Information Added") {
+                alertify.success(save);
+            }
+            else if (save === "User Already Exist" || save === "Check Detailed Information" || save == "No Information Updated") 
+            {
+                alertify.error(save);
+            }
+
+        })
+    </script>
+}
+

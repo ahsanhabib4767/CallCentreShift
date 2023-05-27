@@ -1,0 +1,230 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - PayONE </title>
+    <link rel="icon" type="image/x-icon" href="~/lib/Images/ONEBank_Logo.png">
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="~/lib/AdminLte/dist/googApis.css">
+    <!-- Font Awesome Icons -->
+                @*<link rel="stylesheet" href="~/lib/AdminLte/plugins/fontawesome-free/css/all.min.css">*@
+    <link rel="stylesheet" href="~/lib/AdminLte/plugins/fontawesome-free/all.min.css">
+    <!-- IonIcons -->
+    <link rel="stylesheet" href="~/lib/AdminLte/dist/iconicframework.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/lib/AdminLte/dist/css/adminlte.min.css">
+
+    <link href="~/lib/adminlte/plugins/select2/css/select2.min.css" rel="stylesheet" />
+    @*<link rel="stylesheet" href="~/lib/AdminLte/dist/css/adminlte.min.css">*@
+    <link rel="stylesheet" href="~/css/fontawesome-all.min.css">
+    
+    <link rel="stylesheet" href="~/lib/Alertify/css/alertify.min.css" />
+    <style type="text/css" rel="stylesheet">
+        .alertify-notifier .ajs-message.ajs-error {
+            color: whitesmoke;
+        }
+    </style>
+    <style type="text/css" rel="stylesheet">
+        .alertify-notifier .ajs-message.ajs-success {
+            color: ghostwhite;
+        }
+    </style>
+</head>
+<body class="hold-transition sidebar-mini">
+    @{
+        string curRole = Context.Session.GetString("CurrentUserRole");
+        string curUserName = Context.Session.GetString("LoggedUserName");
+    }
+    <div class="wrapper">
+        <!-- Navbar -->
+        <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+            <!-- Left navbar links -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+                </li>
+            </ul>
+
+            <!-- Right navbar links -->
+            <ul class="navbar-nav ml-auto">
+               
+                    <!-- Navbar Search -->
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Login" asp-action="Logout" role="button">
+                            <strong>Log out</strong>
+                        </a>
+               
+            </ul>
+        </nav>
+        <!-- /.navbar -->
+        <!-- Main Sidebar Container -->
+        <aside class="main-sidebar sidebar-dark-primary elevation-4">
+            <!-- Brand Logo -->
+            <a href="#" class="brand-link">
+                <img src="~/lib/Images/ONEBank_Logo.png" alt="ONE Bank Ltd." class="brand-image img-circle elevation-3" style="opacity: .8">
+                <span class="brand-text font-weight-light"><strong><marquee>ONE Bank Ltd.</marquee></strong></span>
+            </a>
+
+            <!-- Sidebar -->
+            <div class="sidebar">
+                <!-- Sidebar user panel (optional) -->
+                <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                    <div class="image">
+                        <img src="" class="img-circle elevation-2" alt="">
+                    </div>
+                    <div class="info">
+
+                        <a href="#" class="d-block" style="color:whitesmoke">
+                            <i class="fa-solid fa-user"></i> @curUserName
+                            <br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ID: @User.Identity.Name
+
+                        </a>
+                    </div>
+                </div>
+
+
+                <!-- SidebarSearch Form -->
+                <div class="form-inline">
+                    <div class="input-group" data-widget="sidebar-search">
+                        <input class="form-control form-control-sidebar" type="search" placeholder="Search" aria-label="Search">
+                        <div class="input-group-append">
+                            <button class="btn btn-sidebar">
+                                <i class="fas fa-search fa-fw"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Sidebar Menu -->
+                <nav class="mt-2">
+                    <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                        <!-- Add icons to the links using the .nav-icon class
+                             with font-awesome or any other icon font library -->
+                        <li class="nav-item menu">
+                            <a href="#" class="nav-link active">
+                                <i class="fa-solid fa-pen-to-square"></i>
+                                <p>
+                                    Transaction
+                                    <i class="right fas fa-angle-left"></i>
+                                </p>
+                            </a>
+                            <ul class="nav nav-treeview">
+                                <li class="nav-item">
+                                   @* <a href="./index.html" class="nav-link">
+                                        <i class="fas fa-sword-laser-alt"></i>
+                                        <p>Dashboard v1</p>
+                                    </a>*@
+                                    <a asp-area="" asp-controller="Transaction" asp-action="CustomerInfo" class="nav-link">
+                                        <i class="fa-solid fa-pen-to-square"></i> &nbsp;
+                                        <p>
+                                            Get Info of Students
+                                        </p>
+                                    </a>
+
+
+                                </li>
+                                <li class="nav-item">
+                                    <a asp-area="" asp-controller="Transaction" asp-action="ListofCustomerInfo" class="nav-link">
+                                        <i class="fa-solid fa-list"></i> &nbsp;
+                                        <p>
+                                            Pending Fee Lists
+                                        </p>
+                                    </a>
+
+
+                                </li>
+                                <li class="nav-item">
+                                    <a asp-area="" asp-controller="Transaction" asp-action="ListofCustomerInfoForConfirm" class="nav-link">
+                                <i class="fa-solid fa-list"></i> &nbsp;
+                                <p>
+                                    Collected Fee List
+                                </p>
+                            </a>
+                                </li>
+                            </ul>
+                        </li>
+
+                        <li class="nav-item menu">
+                            <a href="#" class="nav-link">
+                                <i class="fa-solid fa-pen-to-square"></i>
+                                <p>
+                                    Security
+                                    <i class="right fas fa-angle-left"></i>
+                                </p>
+                            </a>
+                            <ul class="nav nav-treeview">
+                                <li class="nav-item">
+                                    <a asp-area="" asp-controller="User" asp-action="Index" class="nav-link">
+                                        <i class="fa-solid fa-pen-to-square"></i> &nbsp;
+                                        <p>
+                                           Create User
+                                        </p>
+                                    </a>
+
+
+                                </li>
+                              
+                            </ul>
+                        </li>
+                       
+                    </ul>
+
+                </nav>
+                <!-- /.sidebar-menu -->
+            </div>
+            <!-- /.sidebar -->
+        </aside>
+
+        <!-- Content Wrapper. Contains page content -->
+        <div class="content-wrapper" style="background:#f5fdff">
+            @RenderBody()
+        </div>
+        <!-- /.content-wrapper -->
+        <!-- Control Sidebar -->
+        <aside class="control-sidebar control-sidebar-dark">
+            <!-- Control sidebar content goes here -->
+        </aside>
+        <!-- /.control-sidebar -->
+        <!-- Main Footer -->
+        <footer class="main-footer">
+            <strong>Copyright &copy; 2022 - ONE Bank Ltd. <a asp-area="" asp-controller="Home" asp-action="Privacy"></a>.</strong> All rights reserved.
+        </footer>
+    </div>
+    <!-- ./wrapper -->
+    <!-- REQUIRED SCRIPTS -->
+    <!-- jQuery -->
+    @*<script src="plugins/jquery/jquery.min.js"></script>*@
+    <script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+    <!-- AdminLTE -->
+    <!-- Bootstrap 4 -->
+    <script src="~/lib/AdminLte/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- DataTables  & Plugins -->
+    <script src="~/lib/AdminLte/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/jszip/jszip.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-buttons/js/buttons.print.min.js"></script>
+    <script src="~/lib/AdminLte/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+    <!-- AdminLTE App -->
+
+
+    @*<script src="dist/js/adminlte.js"></script>*@
+    <script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>
+
+    <!-- OPTIONAL SCRIPTS -->
+    <script src="plugins/chart.js/Chart.min.js"></script>
+    <!-- AdminLTE for demo purposes -->
+    @*<script src="dist/js/demo.js"></script>*@
+    <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
+    @*<script src="dist/js/pages/dashboard3.js"></script>*@
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

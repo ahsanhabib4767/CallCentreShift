@@ -1,0 +1,160 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var returnUrl = ViewData["ReturnUrl"] as string;
+    Layout = null;
+    var error = TempData["Error"] as string;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"]Call Centre</title>
+    <link rel="icon" type="image/x-icon" href="~/lib/Images/ONEBank_Logo.png">
+    
+    
+    <!-- Google Font: Source Sans Pro -->
+    <link rel="stylesheet" href="~/css/fonts.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/css/all.min.css">
+    <!-- icheck bootstrap -->
+    <link rel="stylesheet" href="~/css/icheck-bootstrap.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/css/adminlte.min.css">
+
+    <script type="text/javascript">
+    history.forward();
+</script>
+    <style type="text/css">
+        .teaserWrapper {
+            position: relative;
+            margin: 4vw auto;
+            padding: 0;
+            background-color: #fff;
+            border-radius: 0.6vw;
+            overflow: hidden;
+            transition: all 0.5s ease-out;
+            transform-origin: 20% 20%;
+            box-shadow: 0 0 150px 0 rgba(0, 0, 0, 0.05);
+        }
+
+            
+
+
+
+
+        .loginBk {
+            color: white;
+            background: background: #000;
+            background: -webkit-linear-gradient(to right, #fb3d3d, #a35151);
+            background: linear-gradient(to right, #0b4d87, #4eb1cf);
+            box-shadow: 0px 2px 10px rgba(0,0,0,0.2), 0px 10px 20px rgba(0,0,0,0.3), 0px 30px 60px 1px rgba(0,0,0,0.5);
+            border-radius: 8px;
+            padding: 50px;
+        }
+    </style>
+</head>
+
+
+
+
+<body style="background:  #f5fdff" ;" class="hold-transition login-page">
+
+
+    <div class="login-box">
+        <!-- /.login-logo -->
+        <div class="card card-outline card-primary teaserWrapper loginBk">
+            <div class="card-header  text-center">
+                <div class="row">
+                    <div class="col-12">
+                        <b class="h1" style="font-size:30px;">MBL Call Centre</b>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="card-body">
+                <p class="login-box-msg">Sign in</p>
+                @if (!string.IsNullOrEmpty(error))
+                {
+                    <center><p class="alert-danger" style="padding:20px; font-size:13px;">@error</p></center>
+                }
+                <form action="/login?ReturnUrl=@System.Net.WebUtility.UrlEncode(returnUrl)" method="post">
+                    <div class="input-group mb-3">
+                        <input type="text" name="EmpID" class="form-control" placeholder="Employee Id"  required = "required">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-user"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        <input type="password" name="Pwd" class="form-control" placeholder="Password" required = "required">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">  
+                        <!-- /.col -->
+                        <div class="col-6">
+                            <input style="float: right;" type="submit" class="btn btn-primary" value="LOGIN" />
+                        </div>
+                        <!-- /.col -->
+                    </div>
+
+                    @*@ViewBag.Name*@
+                </form>
+
+
+
+                <!-- /.social-auth-links -->
+
+            </div>
+            <!-- /.card-body -->
+            <div class="card-header text-center">
+                <div class="row">
+                    <p style="font-size:17px;color:white">@ViewBag.ErrorMessage</p>
+                    <div class="col-11">
+                        <img src="~/lib/Images/m_logo.jpg" alt="Italian Trulli" width="28px" heigth="28px">
+                        <b class="h2" style="font-size:25px;">### LTD</b>
+                    </div>
+                </div>
+                @*<img src="~/lib/Images/ic_bank165.png" alt="Italian Trulli" width="30px" heigth="30px">
+
+                <a href="#" class="h2" "><b>ONE BANK LTD</b></a>*@
+            </div>
+        </div>
+        <!-- /.card -->
+    </div>
+    
+    <!-- /.login-box -->
+</body>
+  <script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<!-- AdminLTE App -->
+<script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>
+@section scripts{
+    <script src="~/lib/Alertify/alertify.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var save = '@TempData["alert"]'
+            if (save) {
+                alertify.set('notifier', 'position', 'top-right');
+                alertify.success(save);
+
+            }
+            else {
+                save = "";
+                alertify.danger(save);
+            }
+
+
+        })
+    </script>
+    }
+</html>
+

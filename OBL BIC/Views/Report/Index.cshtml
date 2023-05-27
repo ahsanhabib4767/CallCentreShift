@@ -1,0 +1,94 @@
+﻿@using OBL.BIC.Models;
+@model IEnumerable<AccBengalInsuranceTransactionLog>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@{
+    ViewData["Title"] = "Report";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Google Font: Source Sans Pro -->
+    @*<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"> =>*@
+    <link rel="stylesheet" href="~/all/css/fonts.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/DataTables/css/all.min.css">@*plugins/fontawesome-free/css/all.min.css*@
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/DataTables/css/dataTables.bootstrap4.min.css">@*plugins/datatables-bs4/css/dataTables.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/responsive.bootstrap4.min.css">@*plugins/datatables-responsive/css/responsive.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/buttons.bootstrap4.min.css">@*/plugins/datatables-buttons/css/buttons.bootstrap4.min.css*@
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/css/adminlte.min.css">
+
+</head>
+<body>
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <h1>Search Transaction</h1>
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <section class="content">
+        <div class="container-fluid">
+           
+            <form asp-controller="Report" asp-action="ViewInfo" method="post">
+                <div class="row">
+                    <div class="col-md-10 offset-md-1">
+                        <div class="row">
+
+                            <div class="col-3">
+                                <div class="form-group">
+                                    <label>start Date</label>
+
+                                    @* @Html.TextBox("BeginingDate", DateTime.Now.ToString("dd-MMM-yyyy"), new { @class = "form-control date-picker" })*@
+                                    <input type="date" class="form-control" name="startDate" id="startDate" value="">
+
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="form-group">
+                                    <label>End Date:</label>
+                                    <input type="date" class="form-control" name="endDate" id="endDate" value="">
+
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="form-group">
+                                    <label>Branch</label>
+                                        @*@Html.DropDownList("BranchID",null,"Select One",new { @class = "form-control"})*@
+                                    
+                                        @Html.DropDownList("BranchID",(IEnumerable<SelectListItem>)ViewBag.BranchID,"Select Branch",new { @class = "form-control"})
+                                   
+                                        
+                                </div>
+                            </div>
+                            <div class="col-3">
+                                <div class="form-group">
+                                    <label>Search</label>
+                                    <input type="submit" class="form-control btn btn-danger" name="savebtn" value="Search">
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+    <partial name="DataLoad.cshtml" />
+</body>
+</html>
+<script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<!-- AdminLTE App -->
+<script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>

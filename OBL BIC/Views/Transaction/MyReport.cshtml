@@ -1,0 +1,196 @@
+﻿@using OBL.BIC.Model
+@{
+    DateTime startDate = ViewBag.WeekDays[0].WeekStartDate;
+    DateTime endDate = ViewBag.WeekDays[0].WeekEndTime;
+    DateTime currentDate = startDate;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Schedule Form</title>
+    
+    <!-- Google Font: Source Sans Pro -->
+    @*<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"> =>*@
+    <link rel="stylesheet" href="~/all/css/fonts.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="~/DataTables/css/all.min.css">@*plugins/fontawesome-free/css/all.min.css*@
+    <!-- DataTables -->
+    <link rel="stylesheet" href="~/DataTables/css/dataTables.bootstrap4.min.css">@*plugins/datatables-bs4/css/dataTables.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/responsive.bootstrap4.min.css">@*plugins/datatables-responsive/css/responsive.bootstrap4.min.css*@
+    <link rel="stylesheet" href="~/DataTables/css/buttons.bootstrap4.min.css">@*/plugins/datatables-buttons/css/buttons.bootstrap4.min.css*@
+    <!-- Theme style -->
+    <link rel="stylesheet" href="~/css/adminlte.min.css">
+
+</head>
+<body>
+    <div class="container">
+        <h1>Schedule Form</h1>
+        <form id="scheduleForm">
+            <table class="table table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Employee List</th>
+                        @if (ViewBag.WeekDays != null)
+                        {
+
+
+                            while (currentDate <= endDate)
+                            {
+                                <th>@currentDate.ToString("d-M-yy")</th>
+                                currentDate = currentDate.AddDays(1);
+                            }
+                        }
+                    </tr>
+                </thead>
+                <tbody>
+                    @*@foreach (var employee in ViewBag.employees)
+                    {
+                    <tr>
+                    <td>@employee.EmployeeName</td>
+                    @for (int i = 0; i < 7; i++)
+                    {
+                    var date = startDate.AddDays(i);
+                    var id = $"employee{employee.EmployeeId}_date{date.ToString("yyyyMMdd")}";
+
+                    <td>
+                    @Html.DropDownList($"{id}_shift", (IEnumerable<SelectListItem>)ViewBag.shiftList, "Select Shift", new { @class = "form-control", onchange = $"updateSchedule('{id}')"})
+                    <input type="hidden" name="scheduleData" id="@id" value="" />
+                    </td>
+                    }
+                    </tr>
+                    }*@
+
+             
+                    @foreach (var employee in ViewBag.employees)
+                    {
+                        <tr>
+                            <td>@employee.EmployeeName</td>
+                            @for (int i = 0; i < 7; i++)
+                            {
+                                var date = startDate.AddDays(i);
+                                var id = $"employee{employee.EmployeeId}_date{date:yyyyMMdd}";
+                                var selectedShifts = ((List<EmployeeShift>)ViewBag.SavedEmployeeShifts)
+                                .Where(x => x.EmployeeId == employee.EmployeeId && x.ShiftDate == date)
+                                .ToList();
+                                var shiftList = ViewBag.shiftList as SelectList;
+
+                                <td>
+                                    @if (selectedShifts.Any())
+                                    {
+                                        foreach (var shift in selectedShifts)
+                                        {
+                                            var selectedShiftCode = shiftList?.FirstOrDefault(s => s.Value == shift.ShiftTimingId.ToString())?.Text;
+
+                                            @Html.DropDownList($"{id}_shift_{shift.ShiftTimingId}", shiftList, selectedShiftCode,
+                            new
+                            {
+                            @class = "form-control",
+                            onchange = $"updateSchedule('{id}', '{date:yyyy-MM-dd}',event)"
+                            })
+                                            <input type="hidden" name="scheduleData" id="@id" value="@shift.ShiftTimingId" />
+                                        }
+                                    }
+                                    else
+                                    {
+                                        @Html.DropDownList($"{id}_shift", shiftList, "Select Shift",
+                            new
+                            {
+                            @class = "form-control",
+                            onchange = $"saveSchedule('{id}', '{date:yyyy-MM-dd}')"
+                            })
+                                        <input type="hidden" name="scheduleData" id="@id" value="" />
+                                    }
+                                </td>
+                            }
+                        </tr>
+                    }
+
+
+
+
+
+
+                </tbody>
+            </table>
+           @* <br>
+            <input type="button" class="btn btn-primary" value="Submit" onclick="submitForm()">*@
+        </form>
+    </div>
+    @*<partial name="DataLoad.cshtml" />*@
+    <partial name="ShiftDataLoad.cshtml" />
+    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.0/js/bootstrap.min.js"></script>
+
+    <script>
+        function updateSchedule(id, date,e) {
+            var shiftid = e.target.value;
+            //var dropdown = document.getElementById(id + "_shift" + ShiftTimingId);
+
+            //console.log(dropdown);
+            //var value = dropdown.value;
+
+            var employeeId = id.split("_")[0].replace("employee", "");
+
+            var scheduleData = {
+                EmployeeId: parseInt(employeeId),
+                Date: date,
+                ShiftCode: shiftid
+            };
+            $.post("updateSchedule", { scheduleData: scheduleData }, function (data) {
+                console.log(data);
+                window.location.reload();
+            });
+        }
+
+        function saveSchedule(id, date) {
+            
+            var dropdown = document.getElementById(id + "_shift");
+            var value = dropdown.value;
+            var employeeId = id.split("_")[0].replace("employee", "");
+            var scheduleData = {
+                EmployeeId: parseInt(employeeId),
+                Date: date,
+                ShiftCode: value
+            };
+            $.post("updateSchedule", { scheduleData: scheduleData }, function (data) {
+                console.log(data);
+                window.location.reload();
+            });
+        }
+
+        function submitForm() {
+
+            document.getElementById("scheduleForm").submit();
+        }
+    </script>
+    <script src="~/lib/AdminLte/plugins/jquery/jquery.min.js"></script>
+    <!-- Bootstrap 4 -->
+    <!-- AdminLTE App -->
+    <script src="~/lib/AdminLte/dist/js/adminlte.min.js"></script>
+
+
+    @section scripts{
+        <script src="~/lib/Alertify/alertify.min.js"></script>
+        <script type="text/javascript">
+            $(function () {
+                var save = '@TempData["alert"]'
+                if (save) {
+                    alertify.set('notifier', 'position', 'top-right');
+                    alertify.success(save);
+
+                }
+                else {
+                    save = "";
+                    alertify.error(save);
+                }
+
+
+            })
+        </script>
+    }
+</body>
+</html>
+
+

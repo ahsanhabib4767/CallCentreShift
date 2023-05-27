@@ -1,0 +1,59 @@
+﻿@using OBL.BIC.Model;
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@{
+    ViewData["Title"] = "My Shift Schedule";
+}
+    <div class="p-4 rounded border">
+        <div class="row">
+            <div class="col-12 card">
+                <div class="card-content">
+                    <div class="m-5">
+                        <div class="p-4 rounded border">
+                            <table data-order='[[ 0, "asc" ]]' id="example1" class="table table-bordered table-striped">
+                            <thead class="table-success">
+                                    <tr>
+                                    <th>Assaigned Date</th>
+                                    <th>Assaigned Day</th>
+                                    <th>Assaigned Shifts</th>                       
+                                    <th>Employee Name</th>
+                                    <th>Employee Gender</th>
+                                      
+                                    </tr>
+                                </thead>
+                            @*EmployeeName EmployeeID	Gender	ShiftTimingID	ShiftName	EmployeeShiftID	ShiftDate*@
+                                @if (ViewBag.TableData != null)
+                                    {
+                                <tbody class="table-info">
+                                    @foreach (var item in ViewBag.TableData)
+                                    {
+                                        <tr>
+                                            <td>@item.ShiftDate.ToString("dd-MM-yyyy")</td>
+                                            <td>ok</td>
+                                            <td>@item.ShiftName</td>
+                                            <td>@item.EmployeeName</td>
+                                            <td>@item.Gender</td>
+                                        </tr>
+                                    }
+                                </tbody>
+                                }
+                                else{
+                                    <tbody></tbody>
+                                }
+                            
+                            </table>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+<!--  Developed By Ahsan -->

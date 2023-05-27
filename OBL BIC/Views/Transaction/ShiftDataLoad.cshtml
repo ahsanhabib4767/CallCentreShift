@@ -1,0 +1,51 @@
+﻿@using System.Data;
+@{
+    var dataTable = ViewBag.ShiftDataPivot as DataTable;
+}
+
+@{
+    ViewData["Title"] = "PerDay Assiagned List";
+}
+    <div class="p-4 rounded border">
+        <div class="row">
+            <div class="col-12 card">
+                <div class="card-content">
+                    <div class="m-5">
+                    <div class="p-4 rounded border">@if (dataTable != null && dataTable.Rows.Count > 0)
+                        {
+                            <table data-order='[[ 0, "asc" ]]' id="example1" class="table table-bordered table-striped">
+                                <thead>
+                                    <tr>
+                                        @foreach (DataColumn column in dataTable.Columns)
+                                        {
+                                            <th>@column.ColumnName</th>
+                                        }
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (DataRow row in dataTable.Rows)
+                                    {
+                                        <tr>
+                                            @foreach (DataColumn column in dataTable.Columns)
+                                            {
+                                                <td>@row[column.ColumnName]</td>
+                                            }
+                                        </tr>
+                                    }
+                                </tbody>
+                            
+                            </table>
+                        }
+                        else
+                        {
+                            <p>No data available.</p>
+                        }
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+<!--  Developed By Ahsan -->

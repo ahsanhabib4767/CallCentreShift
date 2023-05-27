@@ -1,0 +1,29 @@
+﻿@model int
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    string curRole = Context.Session.GetString("CurrentUserRole");
+    string curUserName = Context.Session.GetString("LoggedUserName");
+    string type = Context.Session.GetString("USERTYPE");
+}
+
+
+@if (type == "Administrator")
+{
+    <center>
+
+        <a asp-action="AddOrEditInfo" asp-controller="Transaction" class="btn btn-success" asp-route-id="@Model"><i class="fa-solid fa-pen-to-square">Post</i></a>
+        <a asp-action="CancelTransaction" asp-controller="Transaction" class="btn btn-danger" asp-route-id="@Model"><i class="fa-solid fa-list">Cancel</i></a>
+
+    </center>
+}
+else{
+    <center>
+
+        <a asp-action="AddOrEditInfo" asp-controller="Transaction" class="btn btn-success" asp-route-id="@Model"><i class="fa-solid fa-pen-to-square">Post</i></a>
+      
+
+    </center>
+}
+

@@ -1,0 +1,617 @@
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\appsettings.Development.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\appsettings.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Connected Services\ServiceReferenceUMS\ConnectedService.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\libman.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.staticwebassets.runtime.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.exe
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.deps.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.runtimeconfig.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.pdb
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Humanizer.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\MessagePack.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Xml.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Common.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Private.ServiceModel.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Federation.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Http.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Security.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.csproj.AssemblyReference.cache
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.GeneratedMSBuildEditorConfig.editorconfig
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.AssemblyInfoInputs.cache
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.AssemblyInfo.cs
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.csproj.CoreCompileInputs.cache
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.MvcApplicationPartsAssemblyInfo.cache
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.RazorAssemblyInfo.cache
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.RazorAssemblyInfo.cs
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\staticwebassets.build.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\staticwebassets.development.json
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\scopedcss\bundle\OBL.EWU.styles.css
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.csproj.CopyComplete
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\refint\OBL.EWU.dll
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.pdb
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.genruntimeconfig.cache
+F:\03 Development\Projects\SVN Prepare\EastWest\OBL.EWU\obj\Debug\net6.0\ref\OBL.EWU.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\appsettings.Development.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\appsettings.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Connected Services\ServiceReferenceUMS\ConnectedService.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\libman.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.staticwebassets.runtime.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.exe
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.deps.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.runtimeconfig.json
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\OBL.EWU.pdb
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Humanizer.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\MessagePack.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Build.Locator.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.Saml.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.IdentityModel.Xml.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Common.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Private.ServiceModel.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Duplex.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Federation.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Http.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.NetTcp.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.ServiceModel.Security.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.csproj.AssemblyReference.cache
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.AssemblyInfoInputs.cache
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.AssemblyInfo.cs
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.csproj.CoreCompileInputs.cache
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.RazorAssemblyInfo.cache
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.RazorAssemblyInfo.cs
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\staticwebassets.build.json
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\staticwebassets.development.json
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\scopedcss\bundle\OBL.EWU.styles.css
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.csproj.CopyComplete
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.dll
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\refint\OBL.EWU.dll
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.pdb
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\OBL.EWU.genruntimeconfig.cache
+F:\Projects\EastWest\OBL.EWU\obj\Debug\net6.0\ref\OBL.EWU.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.ReportViewer.Common.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.ReportViewer.DataVisualization.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.ReportViewer.Design.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.ReportViewer.WebDesign.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.ReportViewer.WebForms.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+F:\Projects\EastWest\OBL.EWU\bin\Debug\net6.0\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

@@ -1,0 +1,63 @@
+﻿@using OBL.BIC.Model;
+@model IEnumerable<AccBicUser>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+}
+
+@{
+    ViewData["Title"] = "Transaction List";
+}
+
+
+
+    <div class="p-4 rounded border">
+        <div class="row">
+            <div class="col-12 card">
+                <div class="card-content">
+                    <div class="m-5">
+                        <div class="p-4 rounded border">
+                        <table data-order='[[ 0, "desc" ]]' id="userinfo" class="table table-bordered table-striped table-hover">
+                <thead>
+                    <tr>
+
+                        <th>Employee ID</th>
+                        <th>Employee Name</th>
+                        <th>UserType</th>
+                        <th>Branch Code</th>
+                    </tr>
+                </thead>
+                @if (ViewBag.TableData != null)
+                {
+                    <tbody>
+                        @foreach (var item in ViewBag.TableData)
+                        {
+                            <tr>
+
+                                <td>@item.Employeeid</td>
+                                <td>@item.Employeename</td>
+                                <td>@item.Usertype</td>
+                                <td>@item.Empbranchcode</td>
+
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                }
+                else
+                {
+                    <tbody></tbody>
+                }
+
+            </table>
+
+        </div>
+    </div>
+</div>
+</div></div></div>
+
+<!--  Developed By Ahsan -->
